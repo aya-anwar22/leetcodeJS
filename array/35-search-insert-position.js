@@ -14,4 +14,3 @@ var searchInsert = function(nums, target) {
     }
 
 };
-ff
